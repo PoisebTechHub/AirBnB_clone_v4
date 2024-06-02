@@ -158,7 +158,7 @@ No known bugs at this time.
 
 ## Authors
 Sadik Adams - [Github](https://github.com/PoisebTechHub)
-Kalorsor Alorsor - [Github](https://github.com/Kalorsor)
+Godsway Alorsor - [Github](https://github.com/Kalorsor)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
